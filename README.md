@@ -2,7 +2,7 @@
 
 This is a Java based implementation of "LWW_Element_Set CRDT" algorithm as an technical Assesement test.
 
-####### LWW_Element_Set
+#### LWW_Element_Set Defination
 
 LWW-Element-Set is similar to 2P-Set in that it consists of an "add set" and a "remove set", with a timestamp for each element.
 Elements are added to an LWW-Element-Set by inserting the element into the add set, with a timestamp. 
